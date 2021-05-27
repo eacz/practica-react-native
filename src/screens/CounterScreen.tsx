@@ -35,30 +35,6 @@ const styles = StyleSheet.create({
     fontSize:40, 
     textAlign:'center',
   },
-  fabLocationR: {
-    position: 'absolute',
-    bottom: 10,
-    right: 10
-  },
-  fabLocationL: {
-    position: 'absolute',
-    bottom: 10,
-    left: 10
-  },
-  fab: {
-    backgroundColor: '#5856D6',
-    height: 60,
-    width: 60,
-    borderRadius: 100,
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  fabText: {
-    color: '#ffffff',
-    fontSize: 20,
-    fontWeight: 'bold'
-  }
 })
 
 export default CounterScreen
